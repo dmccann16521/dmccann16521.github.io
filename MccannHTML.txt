@@ -1,0 +1,58 @@
+<!--Dawn Mccann Sept 29,2024-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+h1 {text-align: center;}
+table {align: center;}
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+</style>	
+</head>
+<body>
+<table>
+
+<h1> Quick Guide to Shooting Modes</h1>
+
+	<tr>
+		<th>Shooting Mode</th>
+		<th>Icon</th>
+		<th>Camera Control</th>
+		<th>Photographer Control</th>
+	</tr>
+	<tr>
+		<td>Program</td>
+		<td>(P)</td>
+		<td>Shutter Speed & Aperture</td>
+		<td>ISO, Metering Modes, & White Balance </td>
+	</tr>
+	<tr>
+		<td>Aperture Priority</td>
+		<td>(Av)</td>
+		<td>Shutter Speed</td>
+		<td>Aperture</td>
+	</tr>
+	<tr>
+		<td>Shutter Priority</td>
+		<td>(Tv)</td>
+		<td>Aperture based on the Shutter Speed</td>
+		<td>Shutter Speed</td>
+	</tr>
+	<tr>
+		<td>Manual mode</td>
+		<td>(M)</td>
+		<td>Nothing</td>
+		<td>All Camera’s Settings</td>
+	</tr> 
+	<tr>
+		<td>Auto</td>
+       		<td>[A]</td>
+		<td>All Camera’s Settings</td>
+		<td>Point & Shoot</td>
+	</tr>  
+	
+</table>
+</body>
+</html>
