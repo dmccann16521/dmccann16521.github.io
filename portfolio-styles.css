@@ -2,19 +2,14 @@
 header {
     background-color: #FEF5E1;
     padding-top: 9px;
-    padding-right: 30px;
-    padding-left: 30px;
     padding-bottom: 20px;
     width: 100%;
-    margin-top: 0px;
-    margin-right: auto;
-    margin-bottom: 0px;
-    margin-left: auto;
     border-bottom: 10px double rgba(25,40,122,1.00);
+    text-align: left;
 }
 body header {
     width: 100%;
-    padding-right: 70px;
+    padding-right: 10px;
 }
 footer {
     width: 100%;
@@ -29,12 +24,12 @@ footer {
     width: auto;
     margin-left: auto;
     margin-right: auto;
-    padding-right: 70px;
+    padding-right: 60px;
 }
 nav {
-    width: 400px;
+    width: auto;
     padding-top: 0px;
-    padding-right: 30px;
+    padding-right: 0px;
     padding-bottom: 20px;
     padding-left: 10px;
     float: right;
@@ -45,7 +40,7 @@ nav {
 #main-copy {
     width: 100%;
     margin: 0px;
-    padding: 40px;
+    padding: 10px;
     min-height: 800px;
     float: center;
     background-color: rgba(255,254,253,0.00);
@@ -60,33 +55,34 @@ nav {
     float: center;
     background-repeat: no-repeat;
     background-position: center;
-    padding: 40px;
+    padding: 20px;
     min-width: 0px;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 body {
     margin: 0px;
-    padding: 20px;
+    padding-right: 0px;
+	width: 100%;
     background-image: url(images/blue-watercolor-background.jpg);
-    background-size: 100% 100%;
+    background-size: 100%;
     background-attachment: fixed;
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
-    width: 100%;
 }
 h1 {
     margin: 0px;
     color: rgba(25,40,122,1.00);
     font-size: 30px;
+    text-align: center;
 }
 h2 {
     margin-top: 30px;
     margin-bottom: 5px;
     color: rgba(3,20,109,1.00);
     font-size: 24px;
-    text-align: center;
+    text-align: left;
 }
 h3 {
     margin-top: 0px;
